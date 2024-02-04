@@ -1,1 +1,1 @@
-# Amazon-Review-LSTM
+Amazon Reviews dataset: https://www.kaggle.com/bittlingmayer/amazonreviews
